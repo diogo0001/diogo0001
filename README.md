@@ -10,5 +10,5 @@
 
 
 <div >
-  <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo0001&layout=compact&langs_count=16" />
+  <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo0001&layout=compact&langs_count=8" />
 </div>
