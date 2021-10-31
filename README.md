@@ -1,6 +1,8 @@
-### Olá, sou Diogo Tavares, desenvoledor Fullstack. 👋
+# Olá, sou Diogo Tavares, desenvoledor Fullstack. 👋
 
-### Hoje trabalho com desenvolvimento fullstack e data science, mas meu foco profissional é Fullstack.
+## Sobre Mim.
+
+Tenho formação em engenharia eletrônica, com ênfase em firmware, sistemas embarcados e processamento digital de sinais. Trabalho atualmente com detecções de anomalias em usinas solares por processamento de imagem e IA, e também com desenvolvimento fullstack, que é o que busco me aperfeiçoar e focar. Atuei também no desenvolvimento de aplicativos Android e aplicações Desktop. Tenho interesse também em processamento de áudio, inclusive meu TCC foi o desenvolvimento de um processador de áudio em tempo real.
 
 ### Estou estudando Flask, Django e VueJs, pois são as tecnologias que estou trabalhando no momento. 
 
@@ -25,11 +27,11 @@
 - Segurança
 - DevOps
 
-### Fatos sobre mim: 
+### Curiosidades sobre mim: 
   - Formado em Engenharia Eletrônica
   - Músico profissional - baterista
   - Produtor musical
-  - Cozinheiro <br><br>
+  - Cozinheiro 
 
 
 
