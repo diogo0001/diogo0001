@@ -1,4 +1,4 @@
-# Olá, sou Diogo Tavares, desenvoledor Fullstack. 👋
+# Olá, sou Diogo Tavares, desenvolvedor Fullstack. 👋
 
 ## Sobre Mim
 
