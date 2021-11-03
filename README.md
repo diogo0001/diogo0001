@@ -6,14 +6,19 @@ Tenho formação em engenharia eletrônica, com ênfase em firmware, sistemas em
 
 ### Estou estudando Flask, Django e VueJs, pois são as tecnologias que estou trabalhando no momento. 
 
-### As tecnologias que tenho conhecimento e interesse são:
+### As tecnologias que mais tenho conhecimento e interesse são:
 - Python: Flask, Django (Backend)
 - C#: .NET, ASP.NET (Backend)
 - Javascript: Reacj, Vuejs (Frontend)
 - Postgress, SqlServer, MySql (Bancos de Dados)
 - C++: Juce (Desenvolver Plugins de Áudio)
 
+#### A seguir, as tecnologias presentes nos repositórios.
+
 ![](https://github.com/diogo0001/diogo0001/blob/main/languages.PNG)
+
+Meus projetos nos repositórios consistem em vários tipos de experimentos e desafios, sendo alguns ainda acadêmicos. <br> 
+Alguns projetos estão como privado, pois fiz mais com o intuito de experimentação.
 
 ### Aprimorando os conceitos de Engenharia de Software:
 - Clean Code
