@@ -37,6 +37,7 @@ Alguns projetos estão como privado, pois fiz mais com o intuito de experimenta�
   - Músico profissional - baterista
   - Produtor musical
   - Cozinheiro 
+  - Trilheiro
 
 
 
