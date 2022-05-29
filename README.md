@@ -1,44 +1,35 @@
-# Diogo Tavares - Desenvolvedor Fullstack.
+# Diogo Tavares - Fullstack Developer.
 
-## Sobre Mim
+## About Me
 
-Tenho formação em engenharia eletrônica, com ênfase em firmware/sistemas embarcados e processamento digital de sinais. Trabalho atualmente com desenvolvimento fullstack. Já atuei no desenvolvimento de aplicativos Android e aplicações Desktop. Tenho interesse também em processamento de áudio, inclusive meu TCC foi o desenvolvimento de um processador de áudio em tempo real.
+I have a degree in electronic engineering, with an emphasis on firmware/embedded systems and digital signal processing. I currently work with fullstack development and am specializing in this area, but have worked with Android and Desktop applications. I also have an interest in audio processing, and my engineering final project was a real-time audio processor.
 
-### As tecnologias que mais tenho conhecimento e interesse são:
+### Stack
 - C#: .NET, ASP.NET (Backend)
 - Python: Flask, Django (Backend)
 - Javascript: Angular, Vuejs (Frontend)
 - HTML, CSS (Frontend)
-- Postgress, SqlServer, MySql (Bancos de Dados)
-- C++: Juce (Desenvolver Plugins de Áudio)
+- Postgress, SqlServer, MySql (Databases)
+- C++: Juce (Audio Plugins)
 
-#### A seguir, as tecnologias presentes nos repositórios.
+#### Technologies used in my repos.
 
 ![](https://github.com/diogo0001/diogo0001/blob/main/languages.PNG)
 
-Meus projetos nos repositórios consistem em vários tipos de experimentos e desafios, sendo alguns ainda acadêmicos. <br> 
-Alguns projetos estão como privado, pois fiz mais com o intuito de experimentação e estudo, e não portifólio.
+My repositories consists of various types of experiments and challenges, some are academic, and some private.
 
-### Aprimorando os conceitos de Engenharia de Software:
+### Improving Software Engineering concepts:
 - Clean Code
 - SOLID
 - Design Patterns
 - DRY
-- Testes
+- Teste
 
-### Buscando desenvolver:
-- Microserviços
-- Segurança
-- DevOps
-
-### Curiosidades sobre mim: 
-  - Formado em Engenharia Eletrônica
-  - Músico profissional - baterista
-  - Produtor musical
-  - Cozinheiro 
-  - Trilheiro
-
-
+### Curiosities about me: 
+  - Professional musician/drummer
+  - Music Producer/Mixer
+  - Cook 
+  - Hiking/camping
 
 
 <!-- https://ionicabizau.github.io/github-profile-languages/api.html?diogo0001 -->
