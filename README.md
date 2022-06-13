@@ -6,8 +6,9 @@ I have a degree in electronic engineering, with an emphasis on firmware/embedded
 
 ### Stack
 - C#: .NET, ASP.NET (Backend)
-- Python: Flask, Django (Backend)
-- Javascript: Angular, Vuejs (Frontend)
+- Python: Flask (Backend)
+- NodeJs (Backend)
+- Javascript/Typescript: Angular, Vuejs (Frontend)
 - HTML, CSS (Frontend)
 - Postgress, SqlServer, MySql (Databases)
 - C++: Juce (Audio Plugins)
