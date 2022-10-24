@@ -14,7 +14,8 @@ I have a degree in electronic engineering, with an emphasis on firmware/embedded
 
 #### Technologies used in my repos.
 
-![](https://github.com/diogo0001/diogo0001/blob/main/languages.PNG)
+![](https://user-images.githubusercontent.com/28815969/197646110-8a8450ce-a767-43b7-a724-f0f6d65f270b.png)
+
 
 My repositories consists of various types of experiments and challenges, some are academic, and some private.
 
