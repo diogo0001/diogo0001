@@ -2,7 +2,7 @@
 
 ## About Me
 
-I have a degree in electronic engineering, with an emphasis on firmware/embedded systems and digital signal processing. I currently work with fullstack development and am specializing in this area, but have worked with Android and Desktop applications. I also have an interest in audio processing, and my engineering final project was a real-time audio processor.
+I have a degree in electronic engineering, with an emphasis on firmware/embedded systems and digital signal processing. I currently work with fullstack development and am specializing in this area, but have worked with Android and Desktop applications. I also have an interest in audio processing, and my engineering final project was a real-time enbedded audio processor.
 
 ### Stack
 - C#: .NET, ASP.NET 
