@@ -5,13 +5,12 @@
 I have a degree in electronic engineering, with an emphasis on firmware/embedded systems and digital signal processing. I currently work with fullstack development and am specializing in this area, but have worked with Android and Desktop applications. I also have an interest in audio processing, and my engineering final project was a real-time audio processor.
 
 ### Stack
-- C#: .NET, ASP.NET (Backend)
+- C#: .NET, ASP.NET 
 - Python: Flask (Backend)
-- NodeJs (Backend)
-- Javascript/Typescript: Angular, Vuejs (Frontend)
-- HTML, CSS (Frontend)
-- Postgress, SqlServer, MySql (Databases)
-- C++: Juce (Audio Plugins)
+- Javascript/Typescript: Angular, Vuejs 
+- HTML, CSS 
+- Postgress, SqlServer, MySql 
+- C++: Juce 
 
 #### Technologies used in my repos.
 
