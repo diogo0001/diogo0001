@@ -6,10 +6,10 @@ I have a degree in electronic engineering, with an emphasis on firmware/embedded
 
 ### Stack
 - C#: .NET, ASP.NET 
-- Python: Flask (Backend)
+- Python: Flask 
 - Javascript/Typescript: Angular, Vuejs 
 - HTML, CSS 
-- Postgress, SqlServer, MySql 
+- Postgress, SqlServer 
 - C++: Juce 
 
 #### Technologies used in my repos.
