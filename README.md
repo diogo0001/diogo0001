@@ -39,3 +39,10 @@ My repositories consists of various types of experiments and challenges, some ar
   <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo0001&layout=compact&langs_count=8" />
 </div>
  -->
+ 
+ ### Contact
+ 
+  - Linkedin : https://www.linkedin.com/in/diogo-tavares-3b4886108/
+  - Gmail : diogo.t0001@gmail.com
+ 
+ 
