@@ -2,7 +2,7 @@
 
 ## About Me
 
-I have a degree in electronic engineering, with an emphasis on firmware/embedded systems and digital signal processing. I currently work with fullstack development and I am specializing in this area, but have worked with Android and Desktop applications as well. I also have an interest in audio processing, and my engineering final project was a real-time enbedded audio processor.
+I have a degree in electronic engineering, with an emphasis on firmware/embedded systems and digital signal processing. I currently work with fullstack development and I am specializing in this area, but have worked with Android and Desktop applications as well. I also have an interest in audio processing, and my engineering final project was a real-time embedded audio processor.
 
 ### Stack
 - C#: .NET, ASP.NET 
@@ -10,11 +10,10 @@ I have a degree in electronic engineering, with an emphasis on firmware/embedded
 - Javascript/Typescript: Angular, Vuejs 
 - HTML, CSS 
 - Postgress, SqlServer 
-- C++: Juce 
 
-#### Technologies used in my repos.
+<!-- #### Technologies used in my repos. -->
 
-![](https://user-images.githubusercontent.com/28815969/197646110-8a8450ce-a767-43b7-a724-f0f6d65f270b.png)
+<!-- ![](https://user-images.githubusercontent.com/28815969/197646110-8a8450ce-a767-43b7-a724-f0f6d65f270b.png) -->
 
 
 My repositories consists of various types of experiments and challenges, some are academic, and some private.
