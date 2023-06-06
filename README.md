@@ -22,8 +22,7 @@ My repositories consists of various types of experiments and challenges, some ar
 - Clean Code
 - SOLID
 - Design Patterns
-- DRY
-- Teste
+- Tests
 
 ### Curiosities about me: 
   - Professional musician/drummer
