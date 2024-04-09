@@ -9,7 +9,9 @@ I have a degree in electronic engineering, with an emphasis on firmware/embedded
 - Python: Flask 
 - Javascript/Typescript: Angular, Vuejs 
 - HTML, CSS 
-- Postgress, SqlServer 
+- Postgress, SqlServer
+- Docker
+- Azure
 
 <!-- #### Technologies used in my repos. -->
 
