@@ -2,8 +2,8 @@
 
 ## About Me  
 I have a degree in Electronic Engineering with a focus on firmware/embedded systems and digital signal processing.  
-Currently, I work as a Fullstack Developer and am continuously expanding my expertise in this field.  
-I also have experience developing Android and Desktop applications.  
+For the past 5 years, I work as a Fullstack Developer and am continuously expanding my expertise in this field.  
+I also have some experience developing Android and Desktop applications.  
 
 Additionally, I have a strong interest in audio processing—my final engineering project was a real-time embedded audio processor.  
 
