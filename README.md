@@ -1,47 +1,38 @@
-# Diogo Tavares - Fullstack Developer.
+# Diogo Tavares - Fullstack Developer  
 
-## About Me
+## About Me  
+I have a degree in Electronic Engineering with a focus on firmware/embedded systems and digital signal processing.  
+Currently, I work as a Fullstack Developer and am continuously expanding my expertise in this field.  
+I also have experience developing Android and Desktop applications.  
 
-I have a degree in electronic engineering, with an emphasis on firmware/embedded systems and digital signal processing. I currently work with fullstack development and I am specializing in this area, but have worked with Android and Desktop applications as well. I also have an interest in audio processing, and my engineering final project was a real-time embedded audio processor.
+Additionally, I have a strong interest in audio processing—my final engineering project was a real-time embedded audio processor.  
 
-### Stack
-- C#: .NET, ASP.NET 
-- Python: Flask 
-- Javascript/Typescript: Angular, Vuejs 
-- HTML, CSS 
-- Postgress, SqlServer
-- Docker
-- Azure
+## Tech Stack  
+- **C#**: .NET, ASP.NET  
+- **Python**: Flask  
+- **JavaScript/TypeScript**: Angular, Vue.js  
+- **HTML, CSS**  
+- **Databases**: PostgreSQL, SQL Server  
+- **DevOps & Cloud**: Docker, Azure  
 
-<!-- #### Technologies used in my repos. -->
+## My Work Here  
+My repositories include a variety of experiments and challenges, ranging from academic projects to personal explorations in software development.
 
-<!-- ![](https://user-images.githubusercontent.com/28815969/197646110-8a8450ce-a767-43b7-a724-f0f6d65f270b.png) -->
+## Improving Software Engineering Concepts  
+- Clean Code  
+- SOLID Principles  
+- Design Patterns  
+- Testing  
 
+## Fun Facts About Me  
+- 🎵 Professional musician & drummer  
+- 🎛️ Music producer & mixer  
+- 🍳 Passionate cook  
+- 🏕️ Hiking & camping enthusiast  
 
-My repositories consists of various types of experiments and challenges, some are academic, and some private.
+## 📫 Contact  
+Feel free to connect with me!  
 
-### Improving Software Engineering concepts:
-- Clean Code
-- SOLID
-- Design Patterns
-- Tests
-
-### Curiosities about me: 
-  - Professional musician/drummer
-  - Music Producer/Mixer
-  - Cook 
-  - Hiking/camping
-
-
-<!-- https://ionicabizau.github.io/github-profile-languages/api.html?diogo0001 -->
-
-<!-- <div >
-  <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo0001&layout=compact&langs_count=8" />
-</div>
- -->
- 
- ### Contact
- 
   - Linkedin : https://www.linkedin.com/in/diogo-tavares-3b4886108/
   - Gmail : diogo.t0001@gmail.com
  
