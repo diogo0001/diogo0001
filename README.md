@@ -33,7 +33,7 @@ My repositories include a variety of experiments and challenges, ranging from ac
 ## 📫 Contact  
 Feel free to connect with me!  
 
-  - Linkedin : https://www.linkedin.com/in/diogo-tavares-3b4886108/
+  - Linkedin : https://www.linkedin.com/in/dt0001
   - Gmail : diogo.t0001@gmail.com
- 
+
  
